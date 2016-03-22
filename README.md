@@ -1,0 +1,1 @@
+# ShortcutsVS2010
